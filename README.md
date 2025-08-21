@@ -1,6 +1,8 @@
-# Patient Docs
+# PatientDocs
 
 A healthcare practice management system built with ASP.NET Core, React, and Azure. This project demonstrates real-world development patterns including authentication, RBAC, file management, and AI integration.
+
+Repository: https://github.com/MuhammadMunir1214/Patient-Docs
 
 ## 🎯 What This App Does
 

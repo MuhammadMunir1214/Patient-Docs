@@ -1,4 +1,4 @@
-# Healthcare Mini App (Balanced Plan with Medium RBAC)
+# PatientDocs (Balanced Plan with Medium RBAC)
 
 This middle-ground project plan bridges the gap between the beginner-friendly notes app and the full-blown SaaS. It introduces multi-user login, RBAC, Patient Documents uploads (replacing Claims), and richer frontend/backend patterns while staying approachable for someone new to .NET, React, and Azure.
 
@@ -12,7 +12,7 @@ Build a small healthcare-style app where:
 
 ## Project Structure
 ```
-healthcare-mini-balanced/
+PatientDocs/
 ├── api/                    # ASP.NET Core backend
 │   ├── Controllers/
 │   ├── Models/
